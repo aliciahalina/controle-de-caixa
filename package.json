@@ -1,0 +1,11 @@
+{
+  "name": "controle-de-caixa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aliciahalina/controle-de-caixa.git",
+  "author": "Alicia Halina <aliciaalmeida198@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
